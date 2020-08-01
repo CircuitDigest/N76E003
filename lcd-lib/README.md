@@ -6,6 +6,6 @@ This Repo will have the following files -
   - Header File .h of the N76E003 LCD File.
   - Source File .c of the N76E003 LCD File.
   
-This file is tested. Kindly report any bug encountered in the circuitdigest.com forum or create an issue in the repository.
+These files are tested. Kindly report any bug encountered in the circuitdigest.com forum or create an issue in the repository.
 
 Enjoy!! 
