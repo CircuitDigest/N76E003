@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/280x280_RS/cd/0b/4e/cd0b4eb9ddb5c7f124d9e564a433ba6a.jpg" width="100"> CircuitDigest
+<img src="https://circuitdigest.com/sites/default/files/projectimage_mic/Getting-Started-With-N76E003.jpg" >
 # N76E003 Repo
 
 This Repo will have the following files -
